@@ -1,1 +1,1 @@
-/home/devmob/devmob_dev/Games/LetGoBirdy/proj.android/app/build/intermediates/cmake/debug/obj/x86
+/home/devmob/nexuszone/Games/LetGoBirdy/proj.android/app/build/intermediates/cmake/debug/obj/x86

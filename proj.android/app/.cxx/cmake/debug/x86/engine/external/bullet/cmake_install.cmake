@@ -1,4 +1,4 @@
-# Install script for directory: /home/devmob/devmob_dev/Games/LetGoBirdy/cocos2d/external/bullet
+# Install script for directory: /home/devmob/nexuszone/Games/LetGoBirdy/cocos2d/external/bullet
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
